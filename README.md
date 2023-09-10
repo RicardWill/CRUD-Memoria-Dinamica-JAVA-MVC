@@ -1,8 +1,7 @@
 # CRUD utilizando memoria dinámica en java con patrón MVC
 
 Práctica utilizando colecciones dinámicas de datos (Array List) en java
-Las validaciones no se implementaron, pero ya estan en proceso de imple
-mentación
+Las validaciones de los datos no se implementaron.
 
 
 Compilado y ejecutado en:
